@@ -1,0 +1,9 @@
+CONDITIONAL STATEMENTS 
+
+questions 
+why do we need conditional statements in c++
+how can we implement conditional statements
+introduction in boolean alzebra
+if-else type
+switch case
+conditional statements= a statement is either true /false
